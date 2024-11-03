@@ -26,6 +26,3 @@ To delete a task, click the "Delete" button next to the task you wish to remove.
 Click the checkbox next to a task to mark it as complete.
 Contribution
 Feel free to contribute to this project! Open issues or submit pull requests for improvements or additional features.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
