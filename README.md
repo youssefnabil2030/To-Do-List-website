@@ -1,5 +1,4 @@
-# To-Do-List
- To-Do List Project
+To-Do List Project
 Overview
 This To-Do List project is a simple yet effective application built using JavaScript, HTML, and CSS. It allows users to manage their tasks efficiently by adding, editing, and deleting items on their to-do list. This project serves as a great example of how to implement basic CRUD (Create, Read, Update, Delete) operations in a web application.
 
